@@ -181,7 +181,7 @@ const questions = [
 
       { text: 'Hamilton', correct: false },
 
-      { text: 'Philip', correct: false }
+      { text: 'Burr', correct: false }
 
     ]
 
